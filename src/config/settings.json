@@ -1,0 +1,9 @@
+{
+  "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36 BitbashScraper/1.0",
+  "concurrency": 3,
+  "delayMs": 600,
+  "maxPages": 3,
+  "timeoutMs": 20000,
+  "outputDir": "./data",
+  "logLevel": "info"
+}
