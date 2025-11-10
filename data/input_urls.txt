@@ -1,0 +1,4 @@
+# Add Biccamera category or search result URLs here (one per line).
+# Example categories/searches:
+https://www.biccamera.com/bc/category/?q=ヘッドホン
+https://www.biccamera.com/bc/category/?q=ノートパソコン
