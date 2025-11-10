@@ -1,0 +1,14 @@
+[
+  {
+    "product_name": "Sony WH-1000XM5 Wireless Noise Cancelling Headphones",
+    "product_url": "https://www.biccamera.com/bc/item/1234567/",
+    "price": "59800 JPY",
+    "availability": "In Stock",
+    "category": "Headphones",
+    "brand": "Sony",
+    "rating": 4.7,
+    "review_count": 254,
+    "image_url": "https://image.biccamera.com/img/1234567.jpg",
+    "specifications": "Bluetooth 5.2, 30h battery life, Type-C charging"
+  }
+]
